@@ -1,4 +1,4 @@
-# End_to_End_project-Movie_Reviews-
+# End_to_End_project(Google's Word2Vec for movie review)
 Applying_text_mining_concepts
 
 # Source
